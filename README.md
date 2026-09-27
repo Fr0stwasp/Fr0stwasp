@@ -13,7 +13,7 @@
 - ☕ Dependência crítica de café no pipeline
 - 🌙 Produtivo às 23h da noite (não por escolha)
 
-- ## 🐞 Bug
+- ## 🐞 Acerte o Bug
 
 <div align="center">
 
@@ -28,4 +28,3 @@ loop do
   achar_exploits; reportar; dormir
 rescue Insomnia; retry
 end
-
