@@ -13,6 +13,14 @@
 - ☕ Dependência crítica de café no pipeline
 - 🌙 Produtivo às 23h da noite (não por escolha)
 
+- ## 🐞 Bug
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Fr0stwasp/Fr0stwasp/refs/heads/main/joaninha.svg" width="100%" alt="Joaninha caminhando" />
+
+</div>
+
 ## 💻 Meu ciclo de vida
 
 ```ruby
@@ -21,10 +29,3 @@ loop do
 rescue Insomnia; retry
 end
 
-## 🐞 Em movimento
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Fr0stwasp/Fr0stwasp/refs/heads/main/joaninha.svg" width="100%" alt="Joaninha caminhando" />
-
-</div>
