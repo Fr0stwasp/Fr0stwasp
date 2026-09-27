@@ -20,3 +20,11 @@ loop do
   achar_exploits; reportar; dormir
 rescue Insomnia; retry
 end
+
+## 🐞 Em movimento
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Fr0stwasp/Fr0stwasp/refs/heads/main/joaninha.svg" width="100%" alt="Joaninha caminhando" />
+
+</div>
