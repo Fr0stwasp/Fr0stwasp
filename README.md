@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Fr0stwasp+%F0%9F%91%8B;Acho+exploits.+Reporto.+Durmo+bem.+%C3%80s+vezes.;Transformo+caf%C3%A9+em+bugs+e+bugs+em+features" alt="Typing SVG" />
+# Olá, eu sou o Fr0stwasp 🕷️
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Acho+exploits.+Reporto.+Durmo+bem.+%C3%80s+vezes." alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=header" width="100%" />
 
